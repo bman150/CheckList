@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CheckList</string>
+    <string name="enter_item_or_task">Enter item or task</string>
+    <string name="add_item">+</string>
+</resources>
